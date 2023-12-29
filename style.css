@@ -3,6 +3,8 @@
 }
 .header{
     display: flex;
+    position: fixed;
+    background-color: white;
 }
 .item{
     margin-top: 15px;
